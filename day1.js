@@ -34,3 +34,7 @@ function practice3() {
         }
     });
 }
+
+practice1();
+practice2();
+practice3();
