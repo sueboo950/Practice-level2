@@ -32,6 +32,3 @@ function practice3() {
     containerHTML += '</div>';
     document.body.innerHTML += containerHTML;
 }
-practice1();
-practice2();
-practice3();
